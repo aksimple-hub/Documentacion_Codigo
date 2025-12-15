@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bf65b435-8efa-41b2-85ef-bdc39ae7c542" name="web">
+        <fileTransfer rootFolder="/home/admin/web/web.infenlaces.com/public_html/dwes/practicas/MasterMind" accessType="SFTP" host="web.infenlaces.com" port="22123" sshConfigId="d1cff2fb-4812-4572-8746-e7fef2f551bf" sshConfig="admin@web.infenlaces.com:22123 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

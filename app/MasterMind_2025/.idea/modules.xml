@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../01_bd/.idea/01_bd.iml" filepath="$PROJECT_DIR$/../01_bd/.idea/01_bd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bd/crud/.idea/crud.iml" filepath="$PROJECT_DIR$/../bd/crud/.idea/crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../docker/.idea/docker.iml" filepath="$PROJECT_DIR$/../../docker/.idea/docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mm.iml" filepath="$PROJECT_DIR$/.idea/mm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tutoria_mm1/.idea/tutoria_mm1.iml" filepath="$PROJECT_DIR$/../tutoria_mm1/.idea/tutoria_mm1.iml" />
+    </modules>
+  </component>
+</project>
